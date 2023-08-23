@@ -45,7 +45,7 @@ try {
             pass1.value = ""
         }
         else {
-            sucinfo.innerHTML = "&star; Login Sucessfull &star <a href ='notes.html'  class = 'private'>Private Information Here"
+            sucinfo.innerHTML = "&star; Login Sucessfull &star;<a href ='notes.html'  class = 'private'>Private Information Here"
             form1.remove();
         }
     })
